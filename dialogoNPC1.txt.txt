@@ -1,3 +1,4 @@
 - ¡Ey! 
 - ¡No puede ser!
 - ¿Qué pasó, estás bien?
+["dialogoNPC-NO"]
